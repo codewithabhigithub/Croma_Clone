@@ -1,2 +1,2 @@
-# Croma_Clone
-<h1><a href='https://clonecroma.netlify.app/'>Croma Clone</a></h1>
+# Croma_Clone ->
+<h2><a href='https://clonecroma.netlify.app/'>Visit</a></h2>
